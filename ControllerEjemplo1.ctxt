@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ControllerEjemplo1
+comment1.params=event
+comment1.target=void\ ActualizarPantalla(javafx.event.ActionEvent)
+comment1.text=\ public\ ControllerEjemplo1(Libro\ libro)\ {\r\n\ \ \ \ \ \ \ //se\ acostumbra\ invocar\ un\ m\u00E9todo\ privado\ que\ inicialice\ la\ GUI\r\n\ \ \ \ \ \ \ this.libro\ \=\ libro;\r\n\ \ \ \ \ \ \ \r\n}*
+comment2.params=event
+comment2.target=void\ GuardarCambios(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ RegistroDevolucion(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ RegistroPrestamo(javafx.event.ActionEvent)
+comment5.params=
+comment5.target=void\ initialize()
+numComments=6
